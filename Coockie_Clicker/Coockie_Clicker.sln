@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coockie_Clicker", "Coockie_Clicker\Coockie_Clicker.csproj", "{B603004E-8939-46CC-AB7A-A3F2BA736881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B603004E-8939-46CC-AB7A-A3F2BA736881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B603004E-8939-46CC-AB7A-A3F2BA736881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B603004E-8939-46CC-AB7A-A3F2BA736881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B603004E-8939-46CC-AB7A-A3F2BA736881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7438EFA-60BE-484F-926A-54D3A7C96506}
+	EndGlobalSection
+EndGlobal
